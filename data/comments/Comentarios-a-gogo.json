@@ -6,5 +6,13 @@
     "content": "Hola",
     "createdAt": 1599213547661,
     "id": "-HQpQeO5A7P0yRRg4QZMLPO2CWQPyh"
+  },
+  {
+    "userId": "github-11407705",
+    "name": "Alex",
+    "avatar": "https://avatars2.githubusercontent.com/u/11407705?v=4",
+    "content": "Soy un comentario",
+    "createdAt": 1599213553797,
+    "id": "XwZsNklnzk8NvTRLRUt8UyWn8-k-zl"
   }
 ]
